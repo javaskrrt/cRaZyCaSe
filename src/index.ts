@@ -1,21 +1,18 @@
 /**
- * cRaZyCaSe - Transform your boring strings into cRaZyCaSe strings!
+ * mOcKcAsE - Transform your boring strings into mOcKcAsE strings!
  *
- * @param {string} input - The string to transform into cRaZyCaSe.
+ * @param {string} input - The string to transform into mOcKcAsE.
  * @param {object} [options] - Configuration options.
  * @param {boolean} [options.capitalizeFirst=false] - Whether the first character should be uppercase.
  *
- * @returns {string} The cRaZyCaSe version of the input string.
+ * @returns {string} The mOcKcAsE version of the input string.
  */
 
-export interface CrazyCaseOptions {
+export interface MockCaseOptions {
   capitalizeFirst?: boolean;
 }
 
-export function crazyCase(
-  input: string,
-  options: CrazyCaseOptions = {}
-): string {
+export function mOcKcAsE(input: string, options: MockCaseOptions = {}): string {
   const { capitalizeFirst = false } = options;
 
   // Two patterns:

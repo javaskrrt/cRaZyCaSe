@@ -1,29 +1,30 @@
 {
-  "name": "crazycase",
+  "name": "mOcKcAsE",
   "version": "1.0.0",
-  "description": " Revolutionary casing style for the new generation ",
+  "description": "Revolutionary casing style for the new generation ",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javaskrrt/cRaZyCaSe.git"
+    "url": "git+https://github.com/javaskrrt/mOcKcAsE.git"
   },
   "keywords": [
-    "crazy",
+    "mock",
     "case",
-    "crazycase",
+    "mockcase",
+    "mOcKcAsE",
     "string",
     "formatter",
     "fun"
   ],
-  "author": "JavaSkrrt",
+  "author": "JavaSkrrt <javaskrrt@gmail.com> (javaskrrt@gmail.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/javaskrrt/cRaZyCaSe/issues"
+    "url": "https://github.com/javaskrrt/mOcKcAsE/issues"
   },
-  "homepage": "https://github.com/javaskrrt/cRaZyCaSe#readme",
+  "homepage": "https://github.com/javaskrrt/mOcKcAsE#readme",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "jest": "^29.7.0",

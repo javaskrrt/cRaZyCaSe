@@ -1,29 +1,29 @@
-# cRaZyCaSe
+# mOcKcAsE
 
 tIrEd oF bOrInG cAsEs LiKe `camelCase`, `PascalCase`, `snake_case`, or `kebab-case`?  
-iNtRoDuCiNg **cRaZyCaSe**: the nExT-gEnErAtIoN sTrInG tRaNsFoRmAtIoN tEcHnOlOgY yOu nEvEr kNeW yOu nEeDeD!
+iNtRoDuCiNg **mOcKcAsE**: the nExT-gEnErAtIoN sTrInG tRaNsFoRmAtIoN tEcHnOlOgY yOu nEvEr kNeW yOu nEeDeD!
 
-## Why cRaZyCaSe?
+## Why mOcKcAsE?
 
 - **Blow your co-workers' minds:** Make your variable names stand out like a malfunctioning text editor.
-- **Win code reviews instantly:** Reviewers won't dare question your creativity once they see `cRaZyCaSe`.
+- **Win code reviews instantly:** Reviewers won't dare question your creativity once they see `mOcKcAsE`.
 - **Attract Social Media Fame:** Enjoy the likes and retweets as you unveil this revolutionary casing system online.
 
 ## Installation
 
 ```bash
-npm install crazycase
+npm install mockcase
 ```
 
 ## Usage
 
 ```ts
-const crazyCase = require("crazycase");
+const mOcKcAsE = require("mockcase");
 
 const normalString = "Hello, World!";
-const crazyString = crazyCase(normalString);
+const mockString = mOcKcAsE(normalString);
 
-console.log(crazyString);
+console.log(mockString);
 // hElLo, wOrLd!
 ```
 
@@ -33,7 +33,7 @@ Ultra-Hip Transformations: Matches your vibe, no matter how unhinged.
 Zero Config: No fancy options. It just does what it does. Embrace the madness.
 Compact Footprint: No heavy dependencies, just pure chaos.
 
-## Who Is cRaZyCaSe For?
+## Who Is mOcKcAsE For?
 
 Developers who enjoy pranks: Perfect for April Fools' commits.
 Team leads who need a 'culture shift': Instantly improve "code culture."
@@ -47,7 +47,7 @@ This package uses Jest for testing.
 npm test
 ```
 
-If everything is set up correctly, you should see test results confirming that cRaZyCaSe is as chaotic as intended.
+If everything is set up correctly, you should see test results confirming that mOcKcAsE is as chaotic as intended.
 
 ---
 
