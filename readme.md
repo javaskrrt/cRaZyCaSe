@@ -72,6 +72,10 @@ You should see a test report indicating that all tests have passed.
 Contributions? Sure, why not!
 If you have ideas to make it cRaZiEr, submit an issue or a pull request.
 
+## Acknowledgements
+
+Special thanks to Robert T. for inspiring this idea. YoU tHe ReAl MvP, mY mAn.
+
 ## License
 
 MIT License. Use at your own risk. (We are not liable for any eye strain or stern looks from your senior engineer.)
