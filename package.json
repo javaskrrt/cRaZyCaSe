@@ -1,0 +1,32 @@
+{
+  "name": "crazycase",
+  "version": "1.0.0",
+  "description": " Revolutionary casing style for the new generation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javaskrrt/cRaZyCaSe.git"
+  },
+  "keywords": [
+    "crazy",
+    "case",
+    "crazycase",
+    "string",
+    "formatter",
+    "fun"
+  ],
+  "author": "JavaSkrrt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javaskrrt/cRaZyCaSe/issues"
+  },
+  "homepage": "https://github.com/javaskrrt/cRaZyCaSe#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5"
+  }
+}
