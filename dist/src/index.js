@@ -1,4 +1,3 @@
-"use strict";
 /**
  * mOcKcAsE - Transform your boring strings into mOcKcAsE strings!
  *
@@ -8,9 +7,7 @@
  *
  * @returns {string} The mOcKcAsE version of the input string.
  */
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.mOcKcAsE = mOcKcAsE;
-function mOcKcAsE(input, options = {}) {
+export function mOcKcAsE(input, options = {}) {
     const { capitalizeFirst = false } = options;
     // Two patterns:
     // If capitalizeFirst = false (default):
