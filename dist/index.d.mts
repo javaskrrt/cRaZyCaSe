@@ -7,8 +7,9 @@
  *
  * @returns {string} The mOcKcAsE version of the input string.
  */
-export interface MockCaseOptions {
+interface MockCaseOptions {
     capitalizeFirst?: boolean;
 }
-export declare function mOcKcAsE(input: string, options?: MockCaseOptions): string;
-//# sourceMappingURL=index.d.ts.map
+declare function mOcKcAsE(input: string, options?: MockCaseOptions): string;
+
+export { type MockCaseOptions, mOcKcAsE };
